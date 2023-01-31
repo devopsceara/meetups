@@ -1,4 +1,9 @@
 # Meetups Devops CE
+Somos uma comunidade e mensalmente organizamos eventos com palestras sobre a cultura Devops e suas tecnologias. O intuito desses encontros é o compartilhamento de conhecimento, fomentar a cultura DevOps no estado e fazer network.
+ 
+Grupo Telegram: https://t.me/devopsce
+
+> Os eventos são gratuitos, não temos nenhum tipo de ajuda financeira de qualquer organização.
 
 ### Evento dias 22/10/2022
 
