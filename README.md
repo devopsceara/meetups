@@ -1,5 +1,5 @@
 # Meetups Devops CE
-Somos uma comunidade e mensalmente organizamos eventos com palestras sobre a cultura Devops e suas tecnologias. O intuito desses encontros é o compartilhamento de conhecimento, fomentar a cultura DevOps no estado e fazer network.
+Somos uma comunidade e mensalmente organizamos eventos com palestras sobre a cultura Devops e suas tecnologias. O intuito desses encontros é o compartilhamento de conhecimento, fomentar a cultura DevOps no estado e fazer networking.
  
 Grupo Telegram: https://t.me/devopsce
 
