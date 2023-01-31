@@ -5,7 +5,7 @@ Grupo Telegram: https://t.me/devopsce
 
 > Os eventos são gratuitos, não temos nenhum tipo de ajuda financeira de qualquer organização.
 
-### Evento dias 22/10/2022
+## 22/10/2022
 
 [Link do evento Sympla](https://www.sympla.com.br/evento/meetup-devops-ceara/1720105?lang=PT)
 
@@ -34,7 +34,7 @@ Avenida Senador Fernandes Távora, 137, Próximo ao North Shopping Jóquei, Jóq
 
 ![meetp1](./img/meetup-22102022.jpg)
 
-### Evento dias 06/08/2022
+## 06/08/2022
 
 [Link do evento Sympla](https://www.sympla.com.br/evento/meetup-devops-ceara/1646571)
 
