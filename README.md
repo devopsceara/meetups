@@ -1,7 +1,7 @@
 # Meetups Devops CE
-Somos uma comunidade e mensalmente organizamos eventos com palestras sobre a cultura Devops e suas tecnologias. O intuito desses encontros é o compartilhamento de conhecimento, fomentar a cultura DevOps no estado e fazer networking.
- 
-Grupo Telegram: https://t.me/devopsce
+Somos uma comunidade e mensalmente organizamos eventos com palestras sobre a cultura DevOps e suas tecnologias. O intuito desses encontros é o compartilhamento de conhecimento, fomentar a cultura DevOps no estado e fazer networking.
+
+Grupo Telegram: [https://t.me/devopsce](https://t.me/devopsce)
 
 > Os eventos são gratuitos, não temos nenhum tipo de ajuda financeira de qualquer organização.
 
@@ -9,13 +9,13 @@ Grupo Telegram: https://t.me/devopsce
 
 [Link do evento Sympla](https://www.sympla.com.br/evento/meetup-devops-ceara/1720105?lang=PT)
 
-**Descrição:** Segundo meetup do ano da comunidade DevOps - CE acontecerá no dia 22/10/2022 na Estácio Parangaba. 
+**Descrição:** Segundo meetup do ano da comunidade DevOps - CE acontecerá no dia 22/10/2022 na Estácio Parangaba.
 
-Neste meetup, serão apresentadas palestras sobre a cultura DevOps, suas ferramentas e suas principais terminologias. 
+Neste meetup, serão apresentadas palestras sobre a cultura DevOps, suas ferramentas e suas principais terminologias.
 
 DevOps não é uma ferramenta ou uma equipe, é o processo ou uma metodologia de uso de várias ferramentas para resolver os problemas entre os desenvolvedores e a equipe de operações, daí o termo “DevOps”.
 
-Neste meetup, serão apresentadas palestras sobre a cultura DevOps, suas ferramentas e suas principais terminologias. 
+Neste meetup, serão apresentadas palestras sobre a cultura DevOps, suas ferramentas e suas principais terminologias.
 
 **Palestras apresentadas:**
 
@@ -46,7 +46,7 @@ Neste meetup, serão apresentadas palestras sobre a cultura DevOps, suas ferrame
 
 **Palestras apresentadas:**
 
-- Alysson Alves: Monitoramento ou Observabilidade? 
+- Alysson Alves: Monitoramento ou Observabilidade?
 - José Araújo: IaC com AWS SDK - Overview
 - Ezzio Moreira: Fluxo de trabalho em equipe com Terraform
 - Alesson Viana: Automação de configuração com Ansible
